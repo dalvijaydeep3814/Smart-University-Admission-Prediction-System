@@ -139,6 +139,6 @@ pip install -r requirements.txt
 ## ✉️ Contact
 
 Made with ❤️ by **Jaydeep Dalvi**
-Feel free to connect on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/jaydeep-d-dalvi/)) or [Email](dalvijaydeep3814@gmail.com)
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jaydeep-d-dalvi/) or [Email](dalvijaydeep3814@gmail.com)
 
 ---
